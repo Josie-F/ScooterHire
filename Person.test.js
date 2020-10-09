@@ -6,7 +6,7 @@ const { test, expect } = require('@jest/globals')
 
 
 
-describe('Hire bikes', () => {
+describe('Hire Scooters', () => {
     test('A person can hire a scooter', () => {
         const person = new Person ('Angela')
         const scooter= new Scooter()
