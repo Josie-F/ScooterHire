@@ -1,0 +1,14 @@
+{
+  "name": "jfu11",
+  "version": "1.0.0",
+  "description": "bike hire system",
+  "main": "Bike.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Josie-f",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.5.2"
+  }
+}
